@@ -20,4 +20,4 @@ Stages -
   3.Testing and feedback
   4.Piloting and mass production
 
-![alt text](https://github.com/bluntbrain/secure_phone_holder/securephoneholder.jpeg?imgmax=800)
+![securephoneholder](https://user-images.githubusercontent.com/34113569/42494030-a7005224-843c-11e8-9850-2013447d6350.jpeg)
