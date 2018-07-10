@@ -20,4 +20,4 @@ Stages -
   3.Testing and feedback
   4.Piloting and mass production
 
-![alt text](http://lh4.ggpht.com/-fvaLPjtRkoA/VI4V7o27w4I/AAAAAAAAF_U/PkQOclqZ8WU/image_thumb%25255B8%25255D.png?imgmax=800)
+![alt text](https://github.com/bluntbrain/secure_phone_holder/securephoneholder.jpeg?imgmax=800)
