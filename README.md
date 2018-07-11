@@ -19,5 +19,6 @@ Stages -
   2.Design for manufacturing
   3.Testing and feedback
   4.Piloting and mass production
+  
+  ![screenshot 6](https://user-images.githubusercontent.com/34113569/42568105-933e9c3a-8529-11e8-8e2f-3f583b3259bf.png)
 
-![securephoneholder](https://user-images.githubusercontent.com/34113569/42494030-a7005224-843c-11e8-9850-2013447d6350.jpeg)
